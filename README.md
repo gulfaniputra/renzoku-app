@@ -6,6 +6,17 @@ A spartan web application for displaying users' favorite Japanese television ser
 
 The name 'Renzoku' comes from the Japanese romanization of 連続ドラマ that means 'drama serial'.
 
+## Table Of Contents
+
+-   [Introduction](#introduction)
+-   [Stack](#stack)
+
+## Introduction
+
+This is an initial attempt at developing a simple Laravel web application.
+
+The objective is to learn and apply basic web development concepts such as API call.
+
 ## Stack
 
 -   TMDB API 3
